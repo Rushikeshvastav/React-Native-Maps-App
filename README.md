@@ -3,13 +3,12 @@
 This project is a React Native application with geolocation and map features using `react-native-maps`. It is bootstrapped with Expo and built using the custom development client (not compatible with Expo Go).
 
 <p align="center">
-  <img src="screenshots/bottomsheet.png" alt="Bottomsheet" width="200"/>
-  <img src="screenshots/eta-distance.png" alt="ETA" width="200"/>
-  <img src="screenshots/list-nearby.png" alt="List" width="200"/>
-  <img src="screenshots/search.png" alt="Search" width="200"/>
-  <img src="screenshots/markers.png" alt="Markers" width="200"/>
-  <img src="screenshots/screenshot1.png" alt="Screenshot 1" width="200"/>
-  <img src="screenshots/screenshot2.png" alt="Screenshot 2" width="200"/>
+  <img src="screenshots/Bottomsheet with live data.png" alt="Bottomsheet" width="200"/>
+  <img src="screenshots/ETA and distance with custom marker.png" alt="ETA" width="200"/>
+  <img src="screenshots/List of nearby shops 3KM.png" alt="List" width="200"/>
+  <img src="screenshots/Location suggestion search.png" alt="Search" width="200"/>
+  <img src="screenshots/Screenshot 2025-08-08 at 1.10.33 PM.png" alt="Markers" width="200"/>
+  <img src="screenshots/Screenshot 2025-08-08 at 1.10.46 PM.png" alt="Screenshot 1" width="200"/>
 </p>
 
 
